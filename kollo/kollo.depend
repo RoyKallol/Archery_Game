@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1463309150 source:e:\igraphics\igraphics\myigraphics\imain.cpp
+	"iGraphics.h"
+	<windows.h>
+	<time.h>
+
+1462838794 e:\igraphics\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1463309150 source:c:\users\asus\desktop\igraphics\igraphics\myigraphics\imain.cpp
+	"iGraphics.h"
+	<windows.h>
+	<time.h>
+
+1462838794 c:\users\asus\desktop\igraphics\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1464314026 source:e:\igraphics2\igraphics\myigraphics\imain.cpp
+	"iGraphics.h"
+	<math.h>
+
+1462838794 e:\igraphics2\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1466456377 source:d:\igraphics2\igraphics\myigraphics\imain.cpp
+	"iGraphics.h"
+	<math.h>
+
+1462838794 d:\igraphics2\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1466452777 source:d:\cse\igraphics2\igraphics\myigraphics\imain.cpp
+	"iGraphics.h"
+	<math.h>
+
+1462835194 d:\cse\igraphics2\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1466452777 source:d:\igraphics\archary\igraphics\myigraphics\imain.cpp
+	"iGraphics.h"
+	<math.h>
+
+1462835194 d:\igraphics\archary\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
